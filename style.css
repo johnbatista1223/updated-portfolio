@@ -2,9 +2,12 @@
 body {
   background-image: linear-gradient(rgb(0, 0, 0,0.4),rgb(0, 0, 0, 0.4)),url(new-york.jpeg);
   background-size:cover;
-  background-repeat: no-repeat;
   background-position: center;
   font-family: 'Arvo', serif;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 .m-heading {
   font-family: "Roboto Slab", serif;
@@ -90,4 +93,15 @@ p{
 }
 .btn{
   margin: 5px;
+}
+@media only screen and (max-width: 600px){
+  .custom-row{
+    width: 50px;
+    margin-left: 50px;
+  }
+}
+@media only screen and (max-width: 600px){
+  nav{
+  
+  }
 }
