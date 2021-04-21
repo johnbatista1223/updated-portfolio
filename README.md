@@ -1,13 +1,13 @@
 # updated-portfolio
-# weather-application
+
 
 ## Description
-this weather applications has many gadgets you can search a city and all the information for the city display. the temperature, humidity , wind speed, and also uv-index. the uv-index is color coded ,so if its green its stable ,yellow elevated, orange high, red danger. it also gives you a 5 day forecast with icons so you know how the weather is going to be for the week. your information is also stored in local storage so if you chooes to leave the page your information would still be there.
+This is a complete update on my first portfolio page i changed the theme, created more cards for more of my projects to be linked to.You can find my email,phone number in the card below and a link to all my projects repos,and live web pages.
 
 ## Installation
- you can clone code from repository in github link and bring it down to your local drive. From thier you can use visual studio code as your ide or any other is fine,then open in browser. i also use the opensource weather api which you can look through things thier.
+ you can clone code from repository in github link and bring it down to your local drive. From thier you can use visual studio code as your ide or any other is fine. You can also go to live server and see it thier https://johnbatista1223.github.io/updated-portfolio/.
 ## Usage
- clone the repo from https://johnbatista1223.github.io/updated-portfolio/ you can use visual studio code as ide then open in google chrome or any browser. the usage of this app is check how the weather is for the week.
+ clone the repo from https://github.com/johnbatista1223/updated-portfolio you can use visual studio code as ide then open in google chrome or any browser. The usage is to create a responsive great looking website for employers can hire me with my first job .
  <img src="portfolio.png" alt="portfolio" width=300>
 
 ## License
